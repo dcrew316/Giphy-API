@@ -1,0 +1,43 @@
+body{
+background: url("assets/pback.jpeg");
+height: 100%;
+background-size: 100%;
+background-repeat: no-repeat;
+color: black;
+}
+.gif-form {
+    color: red;
+}
+* {
+box-sizing: border-box;
+}
+img { 
+height: 150px;
+width: 150px;
+}
+.btn {
+margin: 3px;
+background-color: #102ca8;
+border-color: #fff;
+}
+.gifDiv{
+float: left;
+margin: 3px;
+}
+.container {
+padding: 20px;
+}
+.jumbotron {
+background-color: inherit;
+}
+.jumbotron .h1, .jumbotron h1 {
+text-align: center;
+}
+div#footer {
+clear: both;
+margin-top: 40px;
+position: center;
+bottom: 0;
+left: 0;
+text-align: center;
+}
